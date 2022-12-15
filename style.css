@@ -2,7 +2,7 @@ body{
     background-color:aquamarine;
 }
 #game-box{
-    width: 75vw;
+    width: 90vw;
     margin: auto;
     margin-top: 50px;
     border: 1px solid black;
@@ -28,8 +28,9 @@ body{
     font-size: large;
 }
 #input{
-    width: 90%;
+    width: 80%;
     height: 50px;
+    border-radius: 10px;
 }
 ul{
     list-style: none;
